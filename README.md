@@ -1,3 +1,4 @@
+[简体中文](https://github.com/Thintime123/Minesweeper/blob/master/Minesweeper/README_CN.me)
 # Minesweeper Game
 
 This project is a simple implementation of the classic Minesweeper game using C++ and the Win32 API. The game includes basic functionalities such as initializing the game board, handling mouse operations, and determining win/lose conditions.
